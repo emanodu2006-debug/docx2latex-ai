@@ -1,0 +1,11 @@
+﻿.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.tex
+examples/generated_output.tex
+build/
+dist/
+.eggs/
